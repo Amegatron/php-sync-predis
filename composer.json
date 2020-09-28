@@ -1,7 +1,7 @@
 {
   "name": "amegatron/php-sync-predis",
   "description": "Drivers for PhpSync based on Redis (predis/predis)",
-  "minimum-stability": "beta",
+  "minimum-stability": "dev",
   "license": "BSD-3-Clause",
   "authors": [
     {
